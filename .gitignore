@@ -22,3 +22,7 @@ venv/
 # Node / Frontend
 node_modules/
 frontend/dist/
+
+# Generated PDFs and documents
+*.pdf
+
